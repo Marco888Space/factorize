@@ -1,0 +1,2 @@
+# factorize
+Small factorization script.
